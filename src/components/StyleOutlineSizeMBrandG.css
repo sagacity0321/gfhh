@@ -1,0 +1,83 @@
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.get-it-on {
+  position: absolute;
+  top: 11.55%;
+  left: 30.37%;
+  -webkit-text-stroke: 0.2px #fff;
+}
+.vector-icon3,
+.vector-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7 {
+  position: absolute;
+  height: 42.39%;
+  width: 62.92%;
+  top: 42.61%;
+  right: 6.8%;
+  bottom: 15%;
+  left: 30.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7 {
+  height: 33.58%;
+  width: 12.03%;
+  top: 48.55%;
+  right: 80.51%;
+  bottom: 17.87%;
+  left: 7.46%;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7 {
+  height: 27.6%;
+  width: 9.26%;
+  top: 36.25%;
+  right: 75.56%;
+  bottom: 36.15%;
+  left: 15.18%;
+}
+.vector-icon6,
+.vector-icon7 {
+  height: 53.65%;
+  width: 8.22%;
+  top: 23.2%;
+  right: 84.37%;
+  bottom: 23.15%;
+  left: 7.41%;
+}
+.vector-icon7 {
+  height: 32.15%;
+  width: 12.05%;
+  top: 17.85%;
+  right: 80.51%;
+  bottom: 50%;
+  left: 7.44%;
+}
+.styleoutline-sizem-brandg {
+  position: relative;
+  width: 135px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 8.38px;
+  color: var(--neutral-colors-white);
+  font-family: var(--font-open-sans);
+}

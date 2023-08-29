@@ -1,0 +1,41 @@
+.heading5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 66px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.pager-icon {
+  position: relative;
+  width: 148px;
+  height: 64px;
+}
+.div8,
+.game-img-container-parent,
+.title2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.title2 {
+  align-self: stretch;
+  justify-content: space-between;
+}
+.div8,
+.game-img-container-parent {
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-21xl);
+}
+.div8 {
+  align-self: stretch;
+  background-color: var(--color-darkslateblue-100);
+  flex-direction: column;
+  padding: var(--padding-41xl);
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--headings-h1-size);
+  color: var(--color-gray-100);
+  font-family: var(--body-default);
+}

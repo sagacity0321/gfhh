@@ -1,0 +1,18 @@
+.icon-jam-icons-outline-l7 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sizem {
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--coolgray-10);
+  width: 48px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

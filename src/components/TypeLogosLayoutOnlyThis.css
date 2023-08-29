@@ -1,0 +1,19 @@
+.row,
+.typelogos-layoutonly-this {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.row {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-base);
+}
+.typelogos-layoutonly-this {
+  position: relative;
+  background-color: var(--coolgray-10);
+  width: 1440px;
+  flex-direction: column;
+  padding: var(--padding-61xl);
+  box-sizing: border-box;
+}

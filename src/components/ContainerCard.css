@@ -1,0 +1,121 @@
+.gamelank4 {
+  position: relative;
+  line-height: 40px;
+}
+.cell14 {
+  width: 88px;
+  height: 88.09px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-17xl);
+}
+.gameimg-icon2 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cell15 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.cell-icon,
+.cell16 {
+  overflow: hidden;
+  height: 88.09px;
+}
+.cell16 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.cell-icon {
+  max-width: 100%;
+  object-fit: cover;
+}
+.discount2 {
+  position: relative;
+}
+.cell17,
+.discount-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.discount-frame {
+  background-color: var(--color-darkslateblue-100);
+  padding: var(--padding-10xs) var(--padding-7xs);
+}
+.cell17 {
+  height: 88.09px;
+  overflow: hidden;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  text-align: right;
+  color: var(--color-whitesmoke-100);
+}
+.price10,
+.price11 {
+  position: relative;
+  line-height: 84.2%;
+}
+.price11 {
+  font-size: var(--heading-4-size);
+  line-height: 68.2%;
+  color: var(--color-darkslateblue-100);
+}
+.price9 {
+  width: 100px;
+  height: 31px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.special-price4 {
+  align-items: center;
+  justify-content: center;
+}
+.cell18,
+.row3,
+.special-price4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+}
+.cell18 {
+  height: 88.09px;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  font-size: var(--body-xs-size);
+  color: var(--color-darkslateblue-200);
+}
+.row3 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-5-size);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--body-default);
+}

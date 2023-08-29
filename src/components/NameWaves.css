@@ -1,0 +1,26 @@
+.vector-icon {
+  position: relative;
+  width: 21.03px;
+  height: 32px;
+}
+.waves {
+  line-height: 110%;
+}
+.marathon {
+  line-height: 140%;
+}
+.namewaves,
+.wavesmarathon {
+  position: relative;
+}
+.namewaves {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--body-default-size);
+  color: var(--coolgray-60);
+  font-family: var(--subtitle-m);
+}

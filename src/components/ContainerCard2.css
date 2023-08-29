@@ -1,0 +1,104 @@
+.gamelank16 {
+  position: relative;
+  line-height: 40px;
+}
+.cell48 {
+  width: 88px;
+  height: 88.09px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.gameimg-icon8 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cell49,
+.cell50 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.cell50 {
+  height: 88.09px;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  font-size: var(--heading-5-size);
+}
+.thumbup-child {
+  position: absolute;
+  top: 6.95px;
+  left: 13.45px;
+  width: 19.11px;
+  height: 25.61px;
+}
+.thumb-updefault-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.thumbup {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.cell51 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.cell51,
+.cell52 {
+  height: 88.09px;
+  overflow: hidden;
+}
+.price18 {
+  position: relative;
+  line-height: 68.2%;
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 74.09px;
+  flex-shrink: 0;
+}
+.cell53,
+.row9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+}
+.cell53 {
+  height: 88.09px;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  font-size: var(--heading-4-size);
+}
+.row9 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--body-default);
+}

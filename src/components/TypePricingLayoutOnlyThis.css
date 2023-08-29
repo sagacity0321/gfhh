@@ -1,0 +1,41 @@
+.monthly,
+.yearly {
+  position: relative;
+  line-height: 140%;
+  z-index: 0;
+}
+.monthly {
+  z-index: 2;
+}
+.time-switch {
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  gap: var(--gap-base);
+}
+.pricing,
+.time-switch,
+.typepricing-layoutonly-this {
+  display: flex;
+  justify-content: flex-start;
+}
+.pricing {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.typepricing-layoutonly-this {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  width: 1440px;
+  flex-direction: column;
+  padding: var(--padding-61xl);
+  box-sizing: border-box;
+  align-items: center;
+  gap: var(--gap-29xl);
+  text-align: left;
+  font-size: var(--body-default-size);
+  color: var(--coolgray-90);
+  font-family: var(--subtitle-m);
+}

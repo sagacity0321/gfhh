@@ -1,0 +1,9 @@
+.landing-page-1 {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

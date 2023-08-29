@@ -1,0 +1,57 @@
+.caption,
+.main-headline {
+  align-self: stretch;
+  position: relative;
+}
+.caption {
+  letter-spacing: 1px;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: var(--primary-90);
+}
+.main-headline {
+  font-size: var(--heading-1-size);
+  line-height: 110%;
+}
+.lorem-ipsum-dolor {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.bibendum-amet-at {
+  margin: 0;
+}
+.secondary-headline {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--heading-2-size);
+  line-height: 110%;
+}
+.paragraph,
+.top {
+  align-self: stretch;
+}
+.top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.paragraph {
+  position: relative;
+  font-size: var(--body-default-size);
+  line-height: 140%;
+}
+.alignmentcenter {
+  position: relative;
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+  text-align: center;
+  font-size: var(--heading-5-size);
+  color: var(--coolgray-90);
+  font-family: var(--subtitle-m);
+}

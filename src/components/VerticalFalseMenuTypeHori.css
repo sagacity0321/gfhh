@@ -1,0 +1,25 @@
+.icon-jam-icons-outline-l50 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.menu-item24 {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+}
+.verticalfalse-menu-typehori {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-5xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--subtitle-m-size);
+  color: var(--coolgray-90);
+  font-family: var(--subtitle-m);
+}
