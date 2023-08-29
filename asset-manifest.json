@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gfhh/static/css/main.28759ef1.css",
+    "main.js": "/gfhh/static/js/main.2875a04b.js",
+    "index.html": "/gfhh/index.html",
+    "main.28759ef1.css.map": "/gfhh/static/css/main.28759ef1.css.map",
+    "main.2875a04b.js.map": "/gfhh/static/js/main.2875a04b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28759ef1.css",
+    "static/js/main.2875a04b.js"
+  ]
+}
