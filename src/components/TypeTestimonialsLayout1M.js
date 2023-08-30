@@ -27,7 +27,7 @@ const TypeTestimonialsLayout1M = ({
           src={iconJamIconsOutlineLogos}
         />
         <LayoutLogoTextThumbN
-          vector="/vector31.svg"
+          vector="/vector311.svg"
           zoomerr="Zoomerr"
           paragraph="Malesuada facilisi libero, nam eu. Quis pellentesque tortor a elementum ut blandit sed pellentesque arcu. Malesuada in faucibus risus velit diam. Non, massa ut a arcu, fermentum, vel interdum."
           layoutLogoTextThumbNPosition="unset"

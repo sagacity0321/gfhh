@@ -8,7 +8,7 @@ const SpecialPriceCard = ({ dimensionCode }) => {
         </div>
         <div className="gameinfo1">
           <b className="gamename">Sea of Stars</b>
-          <div className="div13">
+          <div className="div21">
             <div className="logos1">
               <div className="win1">
                 <div className="win-child1" />

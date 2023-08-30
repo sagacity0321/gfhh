@@ -48,7 +48,7 @@ const TypeLogosLayoutOnlyThis = ({
           wAVESMARATHONFontWeight="bold"
         />
         <NameWaves
-          vector="/vector31.svg"
+          vector="/vector311.svg"
           nameWavesPosition="unset"
           nameWavesHeight="unset"
           nameWavesJustifyContent="center"

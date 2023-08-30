@@ -32,7 +32,7 @@ const LayoutLogoTextThumbN = ({
   return (
     <div className="layoutlogo-text-thumb-n" style={layoutLogoTextThumbNStyle}>
       <NameWaves
-        vector="/vector31.svg"
+        vector="/vector311.svg"
         nameWavesPosition="unset"
         nameWavesHeight="64px"
         nameWavesJustifyContent="flex-start"

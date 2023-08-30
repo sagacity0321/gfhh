@@ -4,7 +4,7 @@ const BattleGroundsContainer = () => {
     <div className="list1">
       <img className="img-frame-icon" alt="" src="/img-frame@2x.png" />
       <div className="gameinfo3">
-        <div className="div17">
+        <div className="div25">
           <b className="gamename4">Battle Grounds</b>
           <div className="tags1">
             <div className="switch6">
@@ -45,7 +45,7 @@ const BattleGroundsContainer = () => {
             </ul>
           </div>
           <div className="parent">
-            <div className="div18">
+            <div className="div26">
               <div className="switch10">
                 <b className="text26">매우 긍정적</b>
               </div>

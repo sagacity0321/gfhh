@@ -15,7 +15,7 @@ const FormContainer1 = () => {
                 />
               </div>
               <div className="gameinfo">
-                <div className="div9">
+                <div className="div17">
                   <div className="logos">
                     <div className="win">
                       <div className="win-child" />
@@ -32,18 +32,18 @@ const FormContainer1 = () => {
               </div>
             </div>
           </div>
-          <div className="div10">
+          <div className="div18">
             <article className="title1">
               <h1 className="heading1">ADVENTURE</h1>
               <h1 className="heading2">|</h1>
               <h1 className="heading1">Fallout 4</h1>
             </article>
-            <div className="div11">
+            <div className="div19">
               <div className="release">Released Date</div>
               <div className="release">|</div>
               <div className="release">April 14, 2015</div>
             </div>
-            <div className="div12">
+            <div className="div20">
               <div className="switch">
                 <b className="tagname">매우 긍정적</b>
               </div>
@@ -86,7 +86,7 @@ const FormContainer1 = () => {
           </div>
         </div>
         <SizeDefaultTypeSecondary
-          sizeDefaultTypeSecondaryS="/secondary-cricle-button1.svg"
+          sizeDefaultTypeSecondaryS="/secondary-cricle-button11.svg"
           sizeDefaultTypeSecondaryPosition="absolute"
           sizeDefaultTypeSecondaryHeight="60px"
           sizeDefaultTypeSecondaryTop="177px"

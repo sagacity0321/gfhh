@@ -57,13 +57,13 @@
   gap: var(--gap-5xs);
 }
 .buttons-group2,
-.menu1,
+.menu2,
 .top4 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.menu1 {
+.menu2 {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-base);
@@ -98,12 +98,12 @@
 }
 .bottom,
 .columns,
-.menu4 {
+.menu5 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.menu4 {
+.menu5 {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-5xl);

@@ -62,7 +62,7 @@
   position: relative;
   line-height: 68.2%;
 }
-.div9,
+.div17,
 .special-price {
   align-self: stretch;
   overflow: hidden;
@@ -74,7 +74,7 @@
   justify-content: center;
   z-index: 0;
 }
-.div9 {
+.div17 {
   align-items: flex-end;
   justify-content: space-between;
 }
@@ -136,7 +136,7 @@
   line-height: 46px;
   font-weight: 500;
 }
-.div11 {
+.div19 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -150,7 +150,7 @@
   padding: var(--padding-2xs) var(--padding-14xl);
   justify-content: center;
 }
-.div12,
+.div20,
 .switch,
 .switch1 {
   display: flex;
@@ -164,7 +164,7 @@
   justify-content: center;
   color: var(--color-darkslateblue-100);
 }
-.div12 {
+.div20 {
   height: 40px;
   justify-content: flex-start;
   text-align: center;
@@ -199,13 +199,13 @@
   display: inline-block;
   width: 869.06px;
 }
-.div10,
+.div18,
 .personal-recommend-container {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.div10 {
+.div18 {
   flex-direction: column;
   gap: var(--gap-base);
   text-align: left;

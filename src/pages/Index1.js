@@ -18,7 +18,7 @@ const Index1 = () => {
     <div className="index1">
       <FormContainer1 />
       <SpecialPriceCard1 />
-      <div className="div8">
+      <div className="div16">
         <b className="heading"> Top 10</b>
         <div className="lanks">
           <Container1 />

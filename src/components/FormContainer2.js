@@ -4,7 +4,7 @@ const FormContainer2 = ({ imageDimensions }) => {
     <div className="list11">
       <img className="img-frame-icon1" alt="" src={imageDimensions} />
       <div className="gameinfo4">
-        <div className="div19">
+        <div className="div27">
           <b className="gamename5">Battle Grounds</b>
           <div className="tags2">
             <div className="switch13">
@@ -37,7 +37,7 @@ const FormContainer2 = ({ imageDimensions }) => {
             <img className="logos-icon" alt="" src="/logos@2x.png" />
           </div>
           <div className="group">
-            <div className="div20">
+            <div className="div28">
               <div className="switch17">
                 <b className="text33">매우 긍정적</b>
               </div>

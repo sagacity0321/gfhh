@@ -64,7 +64,7 @@ const DesktopLLogoLeftSubs = ({
       </div>
       <div className="desktop-l-logo-left-subs-child" />
       <div className="columns">
-        <div className="menu1">
+        <div className="menu2">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
             text="Column One"
@@ -144,7 +144,7 @@ const DesktopLLogoLeftSubs = ({
             />
           </div>
         </div>
-        <div className="menu1">
+        <div className="menu2">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
             text="Column Two"
@@ -224,7 +224,7 @@ const DesktopLLogoLeftSubs = ({
             />
           </div>
         </div>
-        <div className="menu1">
+        <div className="menu2">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
             text="Column Three"
@@ -304,7 +304,7 @@ const DesktopLLogoLeftSubs = ({
             />
           </div>
         </div>
-        <div className="menu4">
+        <div className="menu5">
           <div className="top4">
             <VerticalFalseMenuTypeHori
               iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"

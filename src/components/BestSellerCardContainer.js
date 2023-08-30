@@ -19,7 +19,7 @@ const BestSellerCardContainer = ({ propFontWeight }) => {
       </div>
       <div className="gameinfo2">
         <b className="gamename3">Sea of Stars</b>
-        <div className="div15">
+        <div className="div23">
           <div className="logos4">
             <div className="win4">
               <div className="win-child13" />

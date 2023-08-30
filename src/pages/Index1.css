@@ -2,7 +2,7 @@
   position: relative;
   line-height: 66px;
 }
-.div8,
+.div16,
 .index1,
 .lanks {
   display: flex;
@@ -14,11 +14,11 @@
   align-self: stretch;
   gap: var(--gap-base);
 }
-.div8,
+.div16,
 .index1 {
   overflow: hidden;
 }
-.div8 {
+.div16 {
   align-self: stretch;
   padding: var(--padding-41xl);
   gap: var(--gap-5xl);

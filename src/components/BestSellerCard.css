@@ -11,7 +11,7 @@
   width: 148px;
   height: 64px;
 }
-.div16,
+.div24,
 .game-img-container-parent,
 .title2 {
   display: flex;
@@ -22,13 +22,13 @@
   align-self: stretch;
   justify-content: space-between;
 }
-.div16,
+.div24,
 .game-img-container-parent {
   justify-content: flex-start;
   gap: var(--gap-2xl);
   font-size: var(--font-size-21xl);
 }
-.div16 {
+.div24 {
   align-self: stretch;
   background-color: var(--color-darkslateblue-100);
   flex-direction: column;

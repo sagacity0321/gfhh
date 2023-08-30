@@ -107,7 +107,7 @@
   padding: var(--padding-5xs) var(--padding-xs);
   justify-content: center;
 }
-.div18,
+.div26,
 .switch10,
 .switch11 {
   flex-direction: row;
@@ -121,11 +121,11 @@
   justify-content: center;
   color: var(--color-darkslateblue-100);
 }
-.div18 {
+.div26 {
   height: 34.09px;
   justify-content: flex-start;
 }
-.div18,
+.div26,
 .price20,
 .text-wrapper {
   display: flex;
@@ -173,13 +173,13 @@
   font-size: var(--subtitle-m-size);
   color: var(--neutral-colors-white);
 }
-.div17,
+.div25,
 .gameinfo3,
 .list1 {
   display: flex;
   justify-content: flex-start;
 }
-.div17 {
+.div25 {
   flex: 1;
   overflow: hidden;
   flex-direction: column;

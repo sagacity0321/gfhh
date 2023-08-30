@@ -6,7 +6,7 @@
   font-weight: 700;
   font-family: inherit;
 }
-.div14,
+.div22,
 .frame-parent {
   align-self: stretch;
   display: flex;
@@ -19,7 +19,7 @@
   gap: var(--gap-11xl);
   font-size: var(--font-size-11xl);
 }
-.div14 {
+.div22 {
   background-color: var(--color-darkslateblue-100);
   flex-direction: column;
   padding: var(--padding-41xl);

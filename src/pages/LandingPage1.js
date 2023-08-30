@@ -131,11 +131,11 @@ const LandingPage1 = () => {
         loremIpsumDolorDisplay="inline-block"
       />
       <TypeLogosLayoutOnlyThis
-        vector="/vector21.svg"
+        vector="/vector211.svg"
         group45="/group-45.svg"
         group46="/group-46.svg"
         group47="/group-47.svg"
-        vector1="/vector41.svg"
+        vector1="/vector411.svg"
         typeLogosLayoutOnlyThisPosition="unset"
         typeLogosLayoutOnlyThisZIndex="3"
       />
@@ -403,7 +403,7 @@ const LandingPage1 = () => {
         vector1="/vector8.svg"
         vector2="/vector9.svg"
         vector3="/vector10.svg"
-        vector4="/vector111.svg"
+        vector4="/vector1111.svg"
         iconJamIconsOutlineLogos11="/icon--jamicons--outline--logos--chevrondown1.svg"
         iconJamIconsOutlineLogos12="/icon--jamicons--outline--logos--facebook1.svg"
         iconJamIconsOutlineLogos13="/icon--jamicons--outline--logos--instagram2.svg"

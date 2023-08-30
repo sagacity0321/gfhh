@@ -49,7 +49,7 @@ const NameWaves = ({
   return (
     <div className="namewaves" style={nameWavesStyle}>
       <img
-        className="vector-icon4"
+        className="vector-icon8"
         alt=""
         src={vector}
         style={vectorIconStyle}

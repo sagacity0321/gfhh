@@ -2,7 +2,7 @@ import BestSellerCardContainer from "./BestSellerCardContainer";
 import "./BestSellerCard.css";
 const BestSellerCard = () => {
   return (
-    <div className="div16">
+    <div className="div24">
       <div className="title2">
         <h1 className="heading5">Best Seller</h1>
         <img className="pager-icon" alt="" src="/pager.svg" />
