@@ -1,0 +1,63 @@
+.gamename1 {
+  position: relative;
+  line-height: 40px;
+}
+.win-child5,
+.win-child6,
+.win-child7,
+.win-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 10.67px;
+  height: 10.67px;
+}
+.win-child6,
+.win-child7,
+.win-child8 {
+  top: 13.33px;
+}
+.win-child7,
+.win-child8 {
+  top: 0;
+  left: 13.33px;
+}
+.win-child8 {
+  top: 13.33px;
+}
+.apple2,
+.win2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.apple2 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue-100);
+}
+.logos2 {
+  width: 56px;
+  height: 24.09px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.cell {
+  flex: 1;
+  height: 88.09px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xs) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--body-default);
+}

@@ -1,0 +1,28 @@
+.frame-child {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--neutral-colors-white);
+  width: 12px;
+  height: 12px;
+}
+.typetoggle-disabledfalse-s-inner {
+  border-radius: var(--br-14xl);
+  background-color: var(--primary-60);
+  width: 32px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-11xs);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+}
+.typetoggle-disabledfalse-s {
+  position: relative;
+  width: 32px;
+  height: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

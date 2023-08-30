@@ -1,0 +1,23 @@
+.icon-jam-icons-outline-l19 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text {
+  position: relative;
+  line-height: 140%;
+}
+.withicon-sizem {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--body-default-size);
+  color: var(--coolgray-90);
+  font-family: var(--subtitle-m);
+}

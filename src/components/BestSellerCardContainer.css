@@ -1,0 +1,114 @@
+.image-placeholder-icon2 {
+  width: 532px;
+  height: 251px;
+  object-fit: cover;
+}
+.frame-item {
+  position: relative;
+  width: 546px;
+  height: 67px;
+}
+.image-placeholder-parent {
+  width: 534px;
+  height: 290px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gamename3 {
+  position: relative;
+  line-height: 66px;
+}
+.win-child13,
+.win-child14,
+.win-child15,
+.win-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 20px;
+  height: 20px;
+}
+.win-child14,
+.win-child15,
+.win-child16 {
+  top: 25px;
+}
+.win-child15,
+.win-child16 {
+  top: 0;
+  left: 25px;
+}
+.win-child16 {
+  top: 25px;
+}
+.apple4,
+.win4 {
+  position: relative;
+  width: 45px;
+  height: 45px;
+}
+.apple4 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+}
+.logos4 {
+  width: 102px;
+  height: 45.09px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  z-index: 1;
+}
+.div31,
+.price19 {
+  flex-shrink: 0;
+  display: flex;
+}
+.price19 {
+  position: relative;
+  line-height: 66px;
+  align-items: center;
+  width: 214px;
+  height: 41px;
+  z-index: 0;
+}
+.div31 {
+  width: 487px;
+  height: 45px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  text-align: right;
+}
+.game-img-container2,
+.gameinfo2 {
+  width: 534px;
+  display: flex;
+  flex-direction: column;
+}
+.gameinfo2 {
+  height: 142px;
+  padding: var(--padding-3xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: var(--gap-2xs);
+  margin-top: -111px;
+}
+.game-img-container2 {
+  background-color: var(--color-gray-200);
+  height: 321px;
+  align-items: center;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-100);
+  font-family: var(--body-default);
+}

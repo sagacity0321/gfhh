@@ -1,0 +1,65 @@
+.icon-jam-icons-outline-l59 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button-text4 {
+  position: relative;
+  font-size: var(--heading-5-size);
+  letter-spacing: 0.5px;
+  line-height: 100%;
+  font-weight: 500;
+  font-family: var(--subtitle-m);
+  color: var(--neutral-colors-white);
+  text-align: left;
+}
+.text-container4 {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  align-items: center;
+  justify-content: center;
+}
+.vector-icon23 {
+  position: absolute;
+  height: 55.48%;
+  width: 58.34%;
+  top: 20.88%;
+  right: 20.83%;
+  bottom: 23.64%;
+  left: 20.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-jam-icons-outline-l60 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button {
+  cursor: pointer;
+  border: 2px solid var(--primary-60);
+  padding: var(--padding-base);
+  background-color: var(--primary-60);
+  box-sizing: border-box;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button:hover {
+  background-color: var(--color-royalblue);
+  border: 2px solid var(--color-royalblue);
+  box-sizing: border-box;
+}

@@ -1,0 +1,55 @@
+.icon-jam-icons-filled-ci {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.circles {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.icon-jam-icons-outline-l3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.arrows {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-8xs);
+}
+.screendesktop,
+.top-bar {
+  display: flex;
+  justify-content: flex-start;
+}
+.top-bar {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-base);
+  align-items: center;
+  gap: var(--gap-24xl);
+}
+.screendesktop {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  border: 1px solid var(--coolgray-30);
+  box-sizing: border-box;
+  width: 366px;
+  height: 256px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}

@@ -1,0 +1,56 @@
+.icon-jam-icons-outline-l11 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.separator-left {
+  border-right: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 12px;
+  display: none;
+}
+.button-text {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.text-container {
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-base);
+  align-items: center;
+  justify-content: center;
+}
+.separator-right {
+  border-left: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 12px;
+  display: none;
+}
+.icon-jam-icons-outline-l12 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.stylefilled-sizem-brand- {
+  position: relative;
+  background-color: var(--primary-60);
+  border: 2px solid var(--primary-60);
+  box-sizing: border-box;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-xs);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--subtitle-m-size);
+  color: var(--neutral-colors-white);
+  font-family: var(--subtitle-m);
+}

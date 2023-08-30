@@ -1,0 +1,27 @@
+.buttons-group5,
+.content2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.content2 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-13xl) 0;
+  justify-content: center;
+  gap: var(--gap-45xl);
+}
+.section {
+  background-color: var(--coolgray-10);
+  width: 1440px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-141xl) var(--padding-61xl) var(--padding-61xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  z-index: 0;
+}
