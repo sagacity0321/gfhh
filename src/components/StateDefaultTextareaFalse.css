@@ -1,0 +1,30 @@
+.icon-jam-icons-outline-l49 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.text15 {
+  flex: 1;
+  position: relative;
+  line-height: 140%;
+}
+.statedefault-textareafalse {
+  width: 100%;
+  position: relative;
+  background-color: var(--coolgray-10);
+  border-bottom: 1px solid var(--coolgray-30);
+  box-sizing: border-box;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--subtitle-m-size);
+  color: var(--coolgray-60);
+  font-family: var(--subtitle-m);
+}

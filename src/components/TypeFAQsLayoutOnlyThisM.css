@@ -1,0 +1,18 @@
+.images1,
+.typefaqs-layoutonly-this-m {
+  width: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.typefaqs-layoutonly-this-m {
+  position: relative;
+  background-color: var(--coolgray-10);
+  width: 1440px;
+  padding: var(--padding-61xl);
+  box-sizing: border-box;
+  align-items: center;
+  gap: var(--gap-45xl);
+}

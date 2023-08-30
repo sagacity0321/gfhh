@@ -1,0 +1,117 @@
+.gamelank6 {
+  position: relative;
+  line-height: 40px;
+}
+.cell19 {
+  align-self: stretch;
+  width: 88px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-17xl);
+}
+.gameimg-icon3 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cell20,
+.cell21 {
+  display: flex;
+  justify-content: center;
+}
+.cell20 {
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.cell21 {
+  flex-direction: row;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  align-items: center;
+}
+.cell21,
+.cell22 {
+  align-self: stretch;
+  overflow: hidden;
+}
+.discount3 {
+  position: relative;
+}
+.cell23,
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-div {
+  background-color: var(--color-darkslateblue-100);
+  padding: var(--padding-10xs) var(--padding-7xs);
+}
+.cell23 {
+  align-self: stretch;
+  overflow: hidden;
+  padding: var(--padding-6xs) var(--padding-6xl);
+  text-align: right;
+  color: var(--color-whitesmoke-100);
+}
+.price13,
+.price14 {
+  position: relative;
+  line-height: 84.2%;
+}
+.price14 {
+  font-size: var(--heading-4-size);
+  line-height: 68.2%;
+  color: var(--color-darkslateblue-100);
+}
+.price12 {
+  width: 100px;
+  height: 31px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.cell24,
+.row4,
+.special-price5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+}
+.special-price5 {
+  align-items: center;
+  justify-content: center;
+}
+.cell24,
+.row4 {
+  align-self: stretch;
+}
+.cell24 {
+  padding: var(--padding-6xs) var(--padding-6xl);
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  font-size: var(--body-xs-size);
+  color: var(--color-darkslateblue-200);
+}
+.row4 {
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-5-size);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--text-single-200-regular);
+}

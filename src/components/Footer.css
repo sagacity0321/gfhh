@@ -1,0 +1,78 @@
+.date1 {
+  position: relative;
+  line-height: 46px;
+}
+.info {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.gamelank18,
+.gamelank19 {
+  position: relative;
+}
+.gamelank19 {
+  opacity: 0.66;
+}
+.gamelank-group,
+.gamelank-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.gamelank-parent {
+  flex-direction: column;
+  gap: var(--gap-7xs);
+}
+.vector-icon14 {
+  position: relative;
+  width: 76.85px;
+  height: 56px;
+}
+.logo-style-guide-top1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  font-size: var(--font-size-16xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-inter);
+}
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  font-size: var(--heading-5-size);
+}
+.info-parent {
+  align-self: stretch;
+  gap: var(--gap-xl);
+}
+.footer,
+.footer1,
+.info-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: var(--neutral-colors-white);
+  overflow: hidden;
+  padding: var(--padding-41xl);
+}
+.footer {
+  width: 1440px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-lightskyblue);
+  font-family: var(--text-single-200-regular);
+}

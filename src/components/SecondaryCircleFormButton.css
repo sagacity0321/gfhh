@@ -1,0 +1,31 @@
+.secondary-cricle-button-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--neutral-colors-headings-black);
+  display: none;
+}
+.line-roundedchevron-right {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 54px);
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.secondary-cricle-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}

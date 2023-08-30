@@ -1,0 +1,33 @@
+.icon-jam-icons-outline-l94 {
+  position: relative;
+  width: 96px;
+  height: 96px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.paragraph9 {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.icon-jam-icons-outline-l-parent4 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent1 {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-45xl);
+  text-align: center;
+  font-size: var(--text-single-200-regular-size);
+  color: var(--coolgray-90);
+  font-family: var(--subtitle-m);
+}

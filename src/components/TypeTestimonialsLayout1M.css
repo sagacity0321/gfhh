@@ -1,0 +1,26 @@
+.icon-jam-icons-outline-l6 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-jam-icons-outline-l-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.typetestimonials-layout1-m {
+  position: relative;
+  background-color: var(--coolgray-10);
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-61xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}

@@ -1,0 +1,28 @@
+.logo-container1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttons-group3,
+.desktop-horizontal-logo-le {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.buttons-group3 {
+  flex: 1;
+  justify-content: flex-end;
+  gap: var(--gap-base);
+}
+.desktop-horizontal-logo-le {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  border-bottom: 1px solid var(--coolgray-20);
+  box-sizing: border-box;
+  width: 1440px;
+  padding: var(--padding-base) var(--padding-61xl);
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}

@@ -1,0 +1,66 @@
+.plan-name {
+  position: relative;
+  line-height: 110%;
+}
+.plan-name,
+.subtitle,
+.top1 {
+  align-self: stretch;
+}
+.subtitle {
+  position: relative;
+  font-size: var(--text-single-200-regular-size);
+  line-height: 140%;
+}
+.top1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  z-index: 0;
+}
+.b {
+  text-decoration: line-through;
+  color: var(--coolgray-40);
+}
+.b,
+.b1,
+.usd-per-month {
+  position: relative;
+  line-height: 110%;
+}
+.usd-per-month {
+  font-size: var(--body-s-size);
+  line-height: 140%;
+}
+.price {
+  align-items: center;
+  gap: var(--gap-5xs);
+  z-index: 1;
+  font-size: var(--heading-1-size);
+}
+.features,
+.price,
+.pricing-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.features {
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+  z-index: 3;
+}
+.pricing-box {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  border: 1px solid var(--coolgray-20);
+  padding: var(--padding-29xl) var(--padding-5xl);
+  align-items: center;
+  gap: var(--gap-13xl);
+  text-align: center;
+  font-size: var(--heading-3-size);
+  color: var(--coolgray-90);
+  font-family: var(--subtitle-m);
+}
