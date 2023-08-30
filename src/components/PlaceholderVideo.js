@@ -42,7 +42,7 @@ const PlaceholderVideo = ({
   return (
     <div className="placeholder-video" style={placeholderVideoStyle}>
       <img
-        className="icon-jam-icons-outline-l4"
+        className="icon-jam-icons-outline-l5"
         alt=""
         src={iconJamIconsOutlineLogos}
       />

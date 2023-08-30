@@ -9,7 +9,7 @@
 }
 .subtitle {
   position: relative;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   line-height: 140%;
 }
 .top1 {

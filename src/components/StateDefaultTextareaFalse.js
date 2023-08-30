@@ -30,7 +30,7 @@ const StateDefaultTextareaFalse = ({
     >
       {iconLeft && (
         <img
-          className="icon-jam-icons-outline-l49"
+          className="icon-jam-icons-outline-l50"
           alt=""
           src={iconJamIconsOutlineLogos}
         />
@@ -42,7 +42,7 @@ const StateDefaultTextareaFalse = ({
       )}
       {iconRight && (
         <img
-          className="icon-jam-icons-outline-l49"
+          className="icon-jam-icons-outline-l50"
           alt=""
           src={iconJamIconsOutlineLogos1}
         />

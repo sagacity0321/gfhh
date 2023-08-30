@@ -62,7 +62,7 @@
   position: relative;
   line-height: 68.2%;
 }
-.div17,
+.div25,
 .special-price {
   align-self: stretch;
   overflow: hidden;
@@ -74,7 +74,7 @@
   justify-content: center;
   z-index: 0;
 }
-.div17 {
+.div25 {
   align-items: flex-end;
   justify-content: space-between;
 }
@@ -129,14 +129,14 @@
   text-align: left;
   font-size: var(--headings-h1-size);
   color: var(--color-darkslateblue-100);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }
 .release {
   position: relative;
   line-height: 46px;
   font-weight: 500;
 }
-.div19 {
+.div27 {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -150,7 +150,7 @@
   padding: var(--padding-2xs) var(--padding-14xl);
   justify-content: center;
 }
-.div20,
+.div28,
 .switch,
 .switch1 {
   display: flex;
@@ -164,7 +164,7 @@
   justify-content: center;
   color: var(--color-darkslateblue-100);
 }
-.div20 {
+.div28 {
   height: 40px;
   justify-content: flex-start;
   text-align: center;
@@ -199,17 +199,17 @@
   display: inline-block;
   width: 869.06px;
 }
-.div18,
+.div26,
 .personal-recommend-container {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.div18 {
+.div26 {
   flex-direction: column;
   gap: var(--gap-base);
   text-align: left;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   color: var(--neutral-colors-white);
 }
 .personal-recommend-container {
@@ -316,7 +316,7 @@
   text-align: right;
   font-size: var(--heading-4-size);
   color: var(--color-gray-100);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }
 .sec {
   display: flex;

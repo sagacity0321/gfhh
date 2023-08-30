@@ -64,7 +64,7 @@ const DesktopLLogoLeftSubs = ({
       </div>
       <div className="desktop-l-logo-left-subs-child" />
       <div className="columns">
-        <div className="menu2">
+        <div className="menu3">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
             text="Column One"
@@ -81,7 +81,7 @@ const DesktopLLogoLeftSubs = ({
           />
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -90,14 +90,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -106,14 +106,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -122,14 +122,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -138,13 +138,13 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
         </div>
-        <div className="menu2">
+        <div className="menu3">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
             text="Column Two"
@@ -161,7 +161,7 @@ const DesktopLLogoLeftSubs = ({
           />
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -170,14 +170,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -186,14 +186,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -202,14 +202,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src={iconJamIconsOutlineLogos4}
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -218,13 +218,13 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--chevrondown1.svg"
             />
           </div>
         </div>
-        <div className="menu2">
+        <div className="menu3">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
             text="Column Three"
@@ -241,7 +241,7 @@ const DesktopLLogoLeftSubs = ({
           />
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -250,14 +250,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src={iconJamIconsOutlineLogos6}
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -266,14 +266,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src={iconJamIconsOutlineLogos7}
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -282,14 +282,14 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src={iconJamIconsOutlineLogos8}
             />
           </div>
           <div className="menu-item">
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src="/icon--jamicons--outline--logos--home.svg"
             />
@@ -298,13 +298,13 @@ const DesktopLLogoLeftSubs = ({
               <div className="companyname-202x">99+</div>
             </div>
             <img
-              className="icon-jam-icons-outline-l20"
+              className="icon-jam-icons-outline-l21"
               alt=""
               src={iconJamIconsOutlineLogos9}
             />
           </div>
         </div>
-        <div className="menu5">
+        <div className="menu6">
           <div className="top4">
             <VerticalFalseMenuTypeHori
               iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
@@ -350,27 +350,27 @@ const DesktopLLogoLeftSubs = ({
             />
             <div className="social-icons">
               <img
-                className="icon-jam-icons-outline-l44"
+                className="icon-jam-icons-outline-l45"
                 alt=""
                 src="/icon--jamicons--outline--logos--youtube.svg"
               />
               <img
-                className="icon-jam-icons-outline-l44"
+                className="icon-jam-icons-outline-l45"
                 alt=""
                 src={iconJamIconsOutlineLogos12}
               />
               <img
-                className="icon-jam-icons-outline-l44"
+                className="icon-jam-icons-outline-l45"
                 alt=""
                 src="/icon--jamicons--outline--logos--twitter1.svg"
               />
               <img
-                className="icon-jam-icons-outline-l44"
+                className="icon-jam-icons-outline-l45"
                 alt=""
                 src={iconJamIconsOutlineLogos13}
               />
               <img
-                className="icon-jam-icons-outline-l44"
+                className="icon-jam-icons-outline-l45"
                 alt=""
                 src="/icon--jamicons--outline--logos--linkedin1.svg"
               />

@@ -62,7 +62,7 @@ const StyleOutlineSizeMBrand = ({
     >
       {iconLeft && (
         <img
-          className="icon-jam-icons-outline-l12"
+          className="icon-jam-icons-outline-l13"
           alt=""
           src={iconJamIconsOutlineLogos}
         />
@@ -76,7 +76,7 @@ const StyleOutlineSizeMBrand = ({
       )}
       {iconRight && (
         <img
-          className="icon-jam-icons-outline-l13"
+          className="icon-jam-icons-outline-l14"
           alt=""
           src={iconJamIconsOutlineLogos1}
         />

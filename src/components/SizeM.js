@@ -10,7 +10,7 @@ const SizeM = ({ iconJamIconsOutlineLogos, sizeMPosition }) => {
   return (
     <div className="sizem" style={sizeMStyle}>
       <img
-        className="icon-jam-icons-outline-l8"
+        className="icon-jam-icons-outline-l9"
         alt=""
         src={iconJamIconsOutlineLogos}
       />

@@ -51,22 +51,22 @@ const TeamMember = ({
       {icons && (
         <div className="icon-jam-icons-outline-l-group">
           <img
-            className="icon-jam-icons-outline-l14"
+            className="icon-jam-icons-outline-l15"
             alt=""
             src={iconJamIconsOutlineLogos}
           />
           <img
-            className="icon-jam-icons-outline-l14"
+            className="icon-jam-icons-outline-l15"
             alt=""
             src={iconJamIconsOutlineLogos1}
           />
           <img
-            className="icon-jam-icons-outline-l14"
+            className="icon-jam-icons-outline-l15"
             alt=""
             src={iconJamIconsOutlineLogos2}
           />
           <img
-            className="icon-jam-icons-outline-l14"
+            className="icon-jam-icons-outline-l15"
             alt=""
             src={iconJamIconsOutlineLogos3}
           />

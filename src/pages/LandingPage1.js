@@ -19,7 +19,7 @@ const LandingPage1 = () => {
       <TypeContentCenterLayout4
         caption="The tools you need"
         loremIpsumDolorSitAmetCon="Rhoncus morbi et augue nec, in id ullamcorper at sit. Condimentum sit nunc in eros scelerisque sed. Commodo in viverra nunc, ullamcorper ut. Non, amet, aliquet scelerisque nullam sagittis, pulvinar. Fermentum scelerisque sit consectetur hac mi. Mollis leo eleifend ultricies purus iaculis."
-        iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--luggage.svg"
+        iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--luggage1.svg"
         paragraph2="Id eros pellentesque facilisi id mollis faucibus commodo enim."
         iconJamIconsOutlineLogos1="/icon--jamicons--outline--logos--activity.svg"
         paragraph3="Nunc, pellentesque velit malesuada non massa arcu."
@@ -140,7 +140,7 @@ const LandingPage1 = () => {
         typeLogosLayoutOnlyThisZIndex="3"
       />
       <TypeContentCenterLayout6
-        iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--luggage1.svg"
+        iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--luggage11.svg"
         iconJamIconsOutlineLogos1="/icon--jamicons--outline--logos--car1.svg"
         iconJamIconsOutlineLogos2="/icon--jamicons--outline--logos--plus.svg"
         iconJamIconsOutlineLogos3="/icon--jamicons--outline--logos--arrowright1.svg"

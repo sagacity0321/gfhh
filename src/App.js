@@ -4,9 +4,9 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import Nav from "./pages/Nav";
-import HeadersV12 from "./components/HeadersV12";
 import Index1 from "./pages/Index1";
+import HeadersV12 from "./components/HeadersV12";
+import Nav from "./pages/Nav";
 import LandingPage1 from "./pages/LandingPage1";
 import { useEffect } from "react";
 
@@ -34,7 +34,7 @@ function App() {
         title = "";
         metaDescription = "";
         break;
-      case "/index":
+      case "/nav":
         title = "";
         metaDescription = "";
         break;
@@ -60,9 +60,9 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Nav />} />
+      <Route path="/" element={<Index1 />} />
       <Route path="/headers-v12" element={<HeadersV12 />} />
-      <Route path="/index" element={<Index1 />} />
+      <Route path="/nav" element={<Nav />} />
       <Route path="/landing-page-1" element={<LandingPage1 />} />
     </Routes>
   );

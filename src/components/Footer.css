@@ -28,12 +28,12 @@
   flex-direction: column;
   gap: var(--gap-7xs);
 }
-.vector-icon18 {
+.vector-icon22 {
   position: relative;
   width: 76.85px;
   height: 56px;
 }
-.logo-style-guide-top2 {
+.logo-style-guide-top3 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -74,5 +74,5 @@
   text-align: left;
   font-size: var(--font-size-17xl);
   color: var(--color-lightskyblue);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }

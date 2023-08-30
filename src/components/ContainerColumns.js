@@ -23,7 +23,7 @@ const ContainerColumns = ({
 }) => {
   return (
     <div className="columns1">
-      <div className="menu6">
+      <div className="menu7">
         <VerticalFalseMenuTypeHori
           iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
           text="Column One"
@@ -103,7 +103,7 @@ const ContainerColumns = ({
           />
         </div>
       </div>
-      <div className="menu6">
+      <div className="menu7">
         <VerticalFalseMenuTypeHori
           iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
           text="Column Two"
@@ -183,7 +183,7 @@ const ContainerColumns = ({
           />
         </div>
       </div>
-      <div className="menu6">
+      <div className="menu7">
         <VerticalFalseMenuTypeHori
           iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"
           text="Column Three"
@@ -263,7 +263,7 @@ const ContainerColumns = ({
           />
         </div>
       </div>
-      <div className="menu9">
+      <div className="menu10">
         <div className="top6">
           <VerticalFalseMenuTypeHori
             iconJamIconsOutlineLogos="/icon--jamicons--outline--logos--home.svg"

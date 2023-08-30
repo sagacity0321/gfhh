@@ -2,7 +2,7 @@ import "./SecondaryCricleButton.css";
 const SecondaryCricleButton = () => {
   return (
     <img
-      className="secondary-cricle-button1"
+      className="secondary-cricle-button"
       alt=""
       src="/secondary-cricle-button.svg"
     />

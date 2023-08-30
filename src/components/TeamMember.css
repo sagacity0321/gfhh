@@ -14,7 +14,7 @@
   align-items: center;
   justify-content: flex-start;
 }
-.icon-jam-icons-outline-l14 {
+.icon-jam-icons-outline-l15 {
   position: relative;
   width: 24px;
   height: 24px;
@@ -36,7 +36,7 @@
   flex-direction: column;
   justify-content: flex-start;
   text-align: center;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   color: var(--coolgray-90);
   font-family: var(--subtitle-m);
 }

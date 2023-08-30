@@ -1,8 +1,97 @@
+.vector-icon {
+  width: 76.85px;
+  height: 56px;
+}
+.recogame,
+.vector-icon {
+  position: relative;
+}
+.logo-style-guide-top {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.div {
+  position: relative;
+  line-height: 18px;
+}
+.vector-icon1 {
+  position: relative;
+  width: 13.07px;
+  height: 7.23px;
+}
+.div1 {
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.div1,
+.menu,
+.sections {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.sections {
+  justify-content: flex-end;
+  gap: var(--gap-14xl);
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--body-default);
+}
+.menu {
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.secondary-cricle-button {
+  position: relative;
+  width: 51.1px;
+  height: 50px;
+}
+.added {
+  width: 141px;
+  height: 18px;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.added,
+.additional,
+.head-contents {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.additional {
+  width: 216.1px;
+  height: 50px;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  text-align: center;
+  font-size: var(--body-default-size);
+  color: var(--color-dimgray-200);
+  font-family: var(--body-default);
+}
+.head-contents {
+  width: 1306.24px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.nav {
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xl) var(--padding-48xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
 .heading {
   position: relative;
   line-height: 66px;
 }
-.div16,
+.div8,
 .index1,
 .lanks {
   display: flex;
@@ -14,21 +103,24 @@
   align-self: stretch;
   gap: var(--gap-base);
 }
-.div16,
+.div8,
 .index1 {
   overflow: hidden;
 }
-.div16 {
+.div8 {
   align-self: stretch;
   padding: var(--padding-41xl);
   gap: var(--gap-5xl);
+  font-size: var(--headings-h1-size);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--body-default);
 }
 .index1 {
   position: relative;
   background-color: var(--color-gray-100);
   width: 100%;
   text-align: left;
-  font-size: var(--headings-h1-size);
-  color: var(--color-darkslateblue-100);
-  font-family: var(--text-single-200-regular);
+  font-size: var(--font-size-16xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-inter);
 }

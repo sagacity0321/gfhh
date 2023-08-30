@@ -20,7 +20,7 @@ const IconJamIconsOutlineL = ({
 
   return (
     <img
-      className="icon-jam-icons-outline-l5"
+      className="icon-jam-icons-outline-l6"
       alt=""
       src={iconJamIconsOutlineLIconJ}
       style={iconJamIconsOutlineL1Style}

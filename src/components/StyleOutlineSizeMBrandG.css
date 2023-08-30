@@ -1,4 +1,4 @@
-.vector-icon9 {
+.vector-icon13 {
   position: absolute;
   height: 100%;
   width: 100%;
@@ -16,11 +16,11 @@
   left: 30.37%;
   -webkit-text-stroke: 0.2px #fff;
 }
-.vector-icon11,
-.vector-icon12,
-.vector-icon13,
-.vector-icon14,
-.vector-icon15 {
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18,
+.vector-icon19 {
   position: absolute;
   height: 42.39%;
   width: 62.92%;
@@ -32,10 +32,10 @@
   overflow: hidden;
   max-height: 100%;
 }
-.vector-icon12,
-.vector-icon13,
-.vector-icon14,
-.vector-icon15 {
+.vector-icon16,
+.vector-icon17,
+.vector-icon18,
+.vector-icon19 {
   height: 33.58%;
   width: 12.03%;
   top: 48.55%;
@@ -43,9 +43,9 @@
   bottom: 17.87%;
   left: 7.46%;
 }
-.vector-icon13,
-.vector-icon14,
-.vector-icon15 {
+.vector-icon17,
+.vector-icon18,
+.vector-icon19 {
   height: 27.6%;
   width: 9.26%;
   top: 36.25%;
@@ -53,8 +53,8 @@
   bottom: 36.15%;
   left: 15.18%;
 }
-.vector-icon14,
-.vector-icon15 {
+.vector-icon18,
+.vector-icon19 {
   height: 53.65%;
   width: 8.22%;
   top: 23.2%;
@@ -62,7 +62,7 @@
   bottom: 23.15%;
   left: 7.41%;
 }
-.vector-icon15 {
+.vector-icon19 {
   height: 32.15%;
   width: 12.05%;
   top: 17.85%;

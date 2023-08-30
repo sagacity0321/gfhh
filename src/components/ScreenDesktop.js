@@ -70,12 +70,12 @@ const ScreenDesktop = ({
         {arrows && (
           <div className="arrows">
             <img
-              className="icon-jam-icons-outline-l2"
+              className="icon-jam-icons-outline-l3"
               alt=""
               src={iconJamIconsOutlineLogos}
             />
             <img
-              className="icon-jam-icons-outline-l2"
+              className="icon-jam-icons-outline-l3"
               alt=""
               src={iconJamIconsOutlineLogos1}
             />

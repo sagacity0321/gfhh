@@ -64,7 +64,7 @@
   gap: var(--gap-xs);
   z-index: 1;
 }
-.div23,
+.div31,
 .price19 {
   flex-shrink: 0;
   display: flex;
@@ -77,7 +77,7 @@
   height: 41px;
   z-index: 0;
 }
-.div23 {
+.div31 {
   width: 487px;
   height: 45px;
   overflow: hidden;
@@ -110,5 +110,5 @@
   text-align: left;
   font-size: var(--font-size-21xl);
   color: var(--color-gray-100);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }

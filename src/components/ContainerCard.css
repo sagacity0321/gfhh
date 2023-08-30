@@ -117,5 +117,5 @@
   text-align: left;
   font-size: var(--heading-5-size);
   color: var(--color-darkslateblue-100);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }

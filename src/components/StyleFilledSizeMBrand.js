@@ -25,7 +25,7 @@ const StyleFilledSizeMBrand = ({
     >
       {iconLeft && (
         <img
-          className="icon-jam-icons-outline-l10"
+          className="icon-jam-icons-outline-l11"
           alt=""
           src={iconJamIconsOutlineLogos}
         />
@@ -39,7 +39,7 @@ const StyleFilledSizeMBrand = ({
       {sepRight && <div className="separator-right" />}
       {iconRight && (
         <img
-          className="icon-jam-icons-outline-l11"
+          className="icon-jam-icons-outline-l12"
           alt=""
           src={iconJamIconsOutlineLogos1}
         />

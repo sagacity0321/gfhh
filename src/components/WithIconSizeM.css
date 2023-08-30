@@ -1,4 +1,4 @@
-.icon-jam-icons-outline-l18 {
+.icon-jam-icons-outline-l19 {
   position: relative;
   width: 24px;
   height: 24px;
@@ -17,7 +17,7 @@
   justify-content: center;
   gap: var(--gap-5xs);
   text-align: left;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   color: var(--coolgray-90);
   font-family: var(--subtitle-m);
 }

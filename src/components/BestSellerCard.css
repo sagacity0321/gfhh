@@ -11,7 +11,7 @@
   width: 148px;
   height: 64px;
 }
-.div24,
+.div32,
 .game-img-container-parent,
 .title2 {
   display: flex;
@@ -22,13 +22,13 @@
   align-self: stretch;
   justify-content: space-between;
 }
-.div24,
+.div32,
 .game-img-container-parent {
   justify-content: flex-start;
   gap: var(--gap-2xl);
   font-size: var(--font-size-21xl);
 }
-.div24 {
+.div32 {
   align-self: stretch;
   background-color: var(--color-darkslateblue-100);
   flex-direction: column;
@@ -37,5 +37,5 @@
   text-align: left;
   font-size: var(--headings-h1-size);
   color: var(--color-gray-100);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }

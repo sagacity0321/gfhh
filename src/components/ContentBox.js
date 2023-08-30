@@ -48,7 +48,7 @@ const ContentBox = ({
       {iconTop && (
         <div className="icon-container">
           <img
-            className="icon-jam-icons-outline-l9"
+            className="icon-jam-icons-outline-l10"
             alt=""
             src={iconJamIconsOutlineLogos}
           />

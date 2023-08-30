@@ -36,7 +36,7 @@ const VerticalFalseMenuTypeHori = ({
     >
       {iconLeft && (
         <img
-          className="icon-jam-icons-outline-l51"
+          className="icon-jam-icons-outline-l52"
           alt=""
           src={iconJamIconsOutlineLogos}
         />
@@ -59,7 +59,7 @@ const VerticalFalseMenuTypeHori = ({
       />
       {iconRight && (
         <img
-          className="icon-jam-icons-outline-l51"
+          className="icon-jam-icons-outline-l52"
           alt=""
           src={iconJamIconsOutlineLogos1}
         />

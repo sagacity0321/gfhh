@@ -24,7 +24,7 @@ const TypeLogosLayoutOnlyThis = ({
     >
       <div className="row">
         <NameWaves
-          vector="/vector12.svg"
+          vector="/vector121.svg"
           nameWavesPosition="unset"
           nameWavesHeight="unset"
           nameWavesJustifyContent="center"

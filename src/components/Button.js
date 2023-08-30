@@ -21,7 +21,7 @@ const Button = ({
       )}
       {iconRight && (
         <button className="icon-jam-icons-outline-l60">
-          <img className="vector-icon19" alt="" src="/vector111.svg" />
+          <img className="vector-icon23" alt="" src="/vector111.svg" />
         </button>
       )}
     </button>

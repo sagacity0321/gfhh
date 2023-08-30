@@ -27,7 +27,7 @@
   justify-content: flex-start;
   gap: var(--gap-45xl);
   text-align: center;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   color: var(--coolgray-90);
   font-family: var(--subtitle-m);
 }

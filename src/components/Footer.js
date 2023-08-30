@@ -28,8 +28,8 @@ const Footer = () => {
                 Copyright © Kakao Games Corp. All rights reserved.
               </div>
             </div>
-            <div className="logo-style-guide-top2">
-              <img className="vector-icon18" alt="" src="/vector41.svg" />
+            <div className="logo-style-guide-top3">
+              <img className="vector-icon22" alt="" src="/vector4.svg" />
               <b className="gamelank18">RecoGame</b>
             </div>
           </div>

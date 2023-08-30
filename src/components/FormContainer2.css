@@ -62,14 +62,14 @@
   justify-content: flex-start;
   gap: var(--gap-xs);
   z-index: 1;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
 }
 .switch17 {
   background-color: var(--color-darkslateblue-100);
   padding: var(--padding-5xs) var(--padding-xs);
   justify-content: center;
 }
-.div28,
+.div36,
 .switch17,
 .switch18 {
   flex-direction: row;
@@ -83,11 +83,11 @@
   justify-content: center;
   color: var(--color-darkslateblue-100);
 }
-.div28 {
+.div36 {
   height: 34.09px;
   justify-content: flex-start;
 }
-.div28,
+.div36,
 .price21,
 .text-frame {
   display: flex;
@@ -124,7 +124,7 @@
   justify-content: flex-start;
   gap: var(--gap-xs);
   text-align: right;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   color: var(--color-darkslateblue-100);
 }
 .group {
@@ -135,13 +135,13 @@
   font-size: var(--subtitle-m-size);
   color: var(--neutral-colors-white);
 }
-.div27,
+.div35,
 .gameinfo4,
 .list11 {
   display: flex;
   justify-content: flex-start;
 }
-.div27 {
+.div35 {
   flex: 1;
   overflow: hidden;
   flex-direction: column;
@@ -164,5 +164,5 @@
   text-align: left;
   font-size: var(--font-size-17xl);
   color: var(--color-darkslateblue-100);
-  font-family: var(--text-single-200-regular);
+  font-family: var(--body-default);
 }

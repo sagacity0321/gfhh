@@ -16,7 +16,7 @@ const WithIconSizeM = ({
     <div className="withicon-sizem" style={withIconSizeMStyle}>
       {icon && (
         <img
-          className="icon-jam-icons-outline-l18"
+          className="icon-jam-icons-outline-l19"
           alt=""
           src={iconJamIconsOutlineLogos}
         />

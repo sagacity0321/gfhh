@@ -21,7 +21,7 @@ const OpenFalse = ({
       <div className="toggle">
         <b className="question">{title}</b>
         <img
-          className="icon-jam-icons-outline-l19"
+          className="icon-jam-icons-outline-l20"
           alt=""
           src={iconJamIconsOutlineLogos}
         />

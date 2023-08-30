@@ -24,7 +24,7 @@
   background-color: var(--coolgray-30);
   height: 1px;
 }
-.icon-jam-icons-outline-l20 {
+.icon-jam-icons-outline-l21 {
   position: relative;
   width: 24px;
   height: 24px;
@@ -57,13 +57,13 @@
   gap: var(--gap-5xs);
 }
 .buttons-group2,
-.menu2,
+.menu3,
 .top4 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.menu2 {
+.menu3 {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-base);
@@ -77,7 +77,7 @@
   flex-direction: column;
   gap: var(--gap-base);
 }
-.icon-jam-icons-outline-l44 {
+.icon-jam-icons-outline-l45 {
   position: relative;
   width: 24px;
   height: 24px;
@@ -98,12 +98,12 @@
 }
 .bottom,
 .columns,
-.menu5 {
+.menu6 {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.menu5 {
+.menu6 {
   flex: 1;
   flex-direction: column;
   gap: var(--gap-5xl);

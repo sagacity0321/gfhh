@@ -10,7 +10,7 @@
   line-height: 110%;
 }
 .category1 {
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   line-height: 140%;
 }
 .author,
@@ -41,7 +41,7 @@
   width: 380px;
   padding: var(--padding-5xl);
   text-align: center;
-  font-size: var(--text-single-200-regular-size);
+  font-size: var(--body-default-size);
   color: var(--coolgray-90);
   font-family: var(--subtitle-m);
 }

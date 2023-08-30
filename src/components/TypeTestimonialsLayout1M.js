@@ -22,7 +22,7 @@ const TypeTestimonialsLayout1M = ({
     >
       <div className="icon-jam-icons-outline-l-parent">
         <img
-          className="icon-jam-icons-outline-l6"
+          className="icon-jam-icons-outline-l7"
           alt=""
           src={iconJamIconsOutlineLogos}
         />
@@ -45,7 +45,7 @@ const TypeTestimonialsLayout1M = ({
           vectorIconWidth="55.81px"
         />
         <img
-          className="icon-jam-icons-outline-l6"
+          className="icon-jam-icons-outline-l7"
           alt=""
           src={iconJamIconsOutlineLogos1}
         />

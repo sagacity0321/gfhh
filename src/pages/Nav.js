@@ -2,34 +2,34 @@ import SecondaryCricleButton from "../components/SecondaryCricleButton";
 import "./Nav.css";
 const Nav = () => {
   return (
-    <div className="nav">
-      <div className="head-contents">
-        <div className="menu">
-          <div className="logo-style-guide-top">
-            <img className="vector-icon" alt="" src="/vector.svg" />
-            <b className="recogame">RecoGame</b>
+    <div className="nav1">
+      <div className="head-contents2">
+        <div className="menu2">
+          <div className="logo-style-guide-top2">
+            <img className="vector-icon8" alt="" src="/vector.svg" />
+            <b className="recogame2">RecoGame</b>
           </div>
-          <div className="sections">
-            <div className="div">홈</div>
-            <div className="div1">
-              <div className="div">장르</div>
-              <img className="vector-icon1" alt="" src="/vector1.svg" />
+          <div className="sections2">
+            <div className="div17">홈</div>
+            <div className="div18">
+              <div className="div17">장르</div>
+              <img className="vector-icon9" alt="" src="/vector12.svg" />
             </div>
-            <div className="div1">
-              <div className="div">인기 게임</div>
-              <img className="vector-icon1" alt="" src="/vector2.svg" />
+            <div className="div18">
+              <div className="div17">인기 게임</div>
+              <img className="vector-icon9" alt="" src="/vector22.svg" />
             </div>
-            <div className="div1">
-              <div className="div">마이페이지</div>
-              <img className="vector-icon1" alt="" src="/vector3.svg" />
+            <div className="div18">
+              <div className="div17">마이페이지</div>
+              <img className="vector-icon9" alt="" src="/vector32.svg" />
             </div>
           </div>
         </div>
-        <div className="additional">
+        <div className="additional2">
           <SecondaryCricleButton />
-          <div className="added">
-            <div className="div">로그인</div>
-            <div className="div">Language</div>
+          <div className="added2">
+            <div className="div17">로그인</div>
+            <div className="div17">Language</div>
           </div>
         </div>
       </div>
